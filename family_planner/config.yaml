@@ -1,0 +1,24 @@
+name: Family Planner
+version: "1.0.0"
+slug: family_planner
+description: Family planning app met kalender, taken en weekoverzicht
+url: https://github.com/yourusername/family-planner
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+init: false
+ports:
+  5000/tcp: 5000
+ports_description:
+  5000/tcp: Web interface
+webui: http://[HOST]:5000
+startup: application
+boot: auto
+options:
+  port: 5000
+schema:
+  port: port
+image: ghcr.io/home-assistant/{arch}-addon-base-python:latest
