@@ -2,7 +2,7 @@ name: Family Planner
 version: "1.0.0"
 slug: family_planner
 description: Family planning app met kalender, taken en weekoverzicht
-url: https://github.com/yourusername/family-planner
+url: https://github.com/bjornberg/family-planner
 arch:
   - armhf
   - armv7
