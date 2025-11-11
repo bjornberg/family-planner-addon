@@ -24,13 +24,13 @@ Een complete family planning applicatie voor Home Assistant met kalender, taken,
 
 Klik op deze knop om de repository toe te voegen:
 
-[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FJOUW-USERNAME%2Ffamily-planner-addon)
+[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbjornberg%2Ffamily-planner-addon)
 
 Of voeg handmatig toe:
 
 1. Ga in Home Assistant naar **Settings** → **Add-ons** → **Add-on Store**
 2. Klik rechtsboven op **⋮** → **Repositories**
-3. Voeg toe: `https://github.com/JOUW-USERNAME/family-planner-addon`
+3. Voeg toe: `https://github.com/bjornberg/family-planner-addon`
 4. Klik **Add**
 
 ### Stap 2: Add-on Installeren
@@ -106,7 +106,7 @@ Voor meer informatie, zie de [volledige documentatie](family_planner/README.md).
 ## 🐛 Problemen Melden
 
 Heb je een bug gevonden of een feature request?
-[Open een issue](https://github.com/JOUW-USERNAME/family-planner-addon/issues)
+[Open een issue](https://github.com/bjornberg/family-planner-addon/issues)
 
 ## 🤝 Bijdragen
 
