@@ -4,7 +4,7 @@
 
 Een complete family planning applicatie voor Home Assistant met kalender, taken, routines en weekoverzicht.
 
-![Family Planner Screenshot](https://via.placeholder.com/800x400.png?text=Family+Planner+Screenshot)
+
 
 ## ✨ Features
 
